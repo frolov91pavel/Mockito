@@ -1,0 +1,5 @@
+eng\TestMessageSenderImplEng.class
+mock\GeoServiceImplMock.class
+rus\TestMessageSenderImplRus.class
+mock\LocalizationServiceImplMock$1.class
+mock\LocalizationServiceImplMock.class
